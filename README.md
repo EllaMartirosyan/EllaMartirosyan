@@ -5,8 +5,8 @@
 # I work with 👨‍💻:
 </br>
 <p align="center">
-<img src="https://github.com/EllaMartirosyan/EllaMartirosyan/blob/master/assets/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/EllaMartirosyan/EllaMartirosyan/blob/master/assets/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/EllaMartirosyan/EllaMartirosyan/blob/main/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/EllaMartirosyan/EllaMartirosyan/blob/main/assets/java.png" alt="java" width="100" hight="50">
 </p>
 
 </br>
