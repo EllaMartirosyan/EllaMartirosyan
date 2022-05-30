@@ -2,7 +2,6 @@
 <h2 align="center">👋 Hi, my name is Ella!</h2>
 <h2 align="center">I'm a fullstack software engineer 👨‍💻</h2>
 <h2 align="center">Welcome to my GitHub profile... 👀</h2>
-<h2>I work with:</h2>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
