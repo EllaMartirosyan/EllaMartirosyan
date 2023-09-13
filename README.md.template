@@ -4,8 +4,8 @@
 <h2 align="center">Welcome to my GitHub profile... 👀</h2>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-A81C7D.svg?&style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white"/>
@@ -42,5 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=EllaMartirosyan&&show_icons=true&theme=radical"/>
 </a>
 </p>
+
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
 
 <p align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></p>
