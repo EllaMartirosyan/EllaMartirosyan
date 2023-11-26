@@ -1,6 +1,6 @@
-<div style="display: grid">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
   <div>
-    <h2>👋 Hi, my name is Ella!</h2>
+    <h1>👋 Hi, my name is Ella!</h2>
     <h2>I'm a fullstack software engineer 👨‍💻</h2>
     <h2>Welcome to my GitHub profile... 👀</h2>
     </br>
