@@ -41,7 +41,7 @@
       </p>
       <p><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></p>
     </td>
-    <td
+    <td>
       <a href="https://app.daily.dev/ella250"><img src="https://api.daily.dev/devcards/d4b6351eb3b4450d8103959d57fd4f4e.png?r=pjg" width="400" alt="Ella Martirosyan's Dev Card"/></a>
     </td>
   </tr>
