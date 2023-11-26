@@ -1,4 +1,4 @@
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<div style="display: grid; grid-template-columns: 50% 50%;">
   <div>
     <h2>👋 Hi, my name is Ella!</h2>
     <h3>I'm a fullstack software engineer 👨‍💻</h2>
