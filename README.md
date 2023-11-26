@@ -45,7 +45,7 @@
       </p>
     </td>
     <td style="width: 50%;">
-      <a href="https://app.daily.dev/ella250"><img src="https://api.daily.dev/devcards/d4b6351eb3b4450d8103959d57fd4f4e.png?r=pjg" width="400" alt="Ella Martirosyan's Dev Card"/></a>
+      <a href="https://app.daily.dev/ella250"><img src="https://github.com/EllaMartirosyan/EllaMartirosyan/blob/main/devcard.svg" width="400" alt="Ella Martirosyan's Dev Card"/></a>
     </td>
   </tr>
 </table>
