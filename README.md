@@ -1,8 +1,8 @@
 <div style="display: grid; grid-template-columns: 50% 50%;">
   <div width="50%">
     <h3>👋 Hi, my name is Ella!</h2>
-    <h2>I'm a fullstack software engineer 👨‍💻</h2>
-    <h2>Welcome to my GitHub profile... 👀</h2>
+    <h4>I'm a fullstack software engineer 👨‍💻</h2>
+    <h4>Welcome to my GitHub profile... 👀</h2>
     </br>
     <p>
       <img src="https://img.shields.io/badge/REACT-A81C7D.svg?&style=flat&logo=react&logoColor=white"/>
